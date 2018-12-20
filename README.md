@@ -1,8 +1,11 @@
 # alert-module
- - alert-form.tpl
 
+## Prereqs
+
+Boostrap4, FontAwesome5
 
 ## Step 1: Add the Form
+ - alert-form.tpl
 
 Create a calendar for Alerts and upload the following form 
 
