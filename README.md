@@ -159,7 +159,7 @@ Add the JS to make sure the alert doesnt appear again onced closed.
 
 ```
 /** ===========================================
-  Alert Manager
+  Alert Module
 ============================================ */
 
 document.addEventListener("DOMContentLoaded", function (evt) {
