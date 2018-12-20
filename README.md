@@ -1,8 +1,10 @@
 # alert-module
 
-## Prereqs
-
-Boostrap4, FontAwesome5
+## Prerequisites
+<ul>
+	<li><a target="_blank" href="https://getbootstrap.com/">Boostrap4</a></li>
+	<li><a target="_blank" href="https://fontawesome.com/">FontAwesome5</a></li>
+</ul>
 
 ## Step 1: Add the Form
  - alert-form.tpl
